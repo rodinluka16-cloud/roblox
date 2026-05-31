@@ -1,0 +1,6 @@
+{
+  "name": "garage-to-arena",
+  "tree": {
+    "$className": "DataModel"
+  }
+}
